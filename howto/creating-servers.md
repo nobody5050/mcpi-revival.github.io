@@ -20,7 +20,7 @@ First of all, you must choose which server software to use.
 - No Whitelist
 
 ### System Requirements
-Debian Buster/Ubuntu 20.04 Or Later
+Debian Bullseye/Ubuntu 22.04 Or Later
 
 ### Instructions
 1. Open UDP port 19132 on your router/firewall.
@@ -49,7 +49,7 @@ Modern Debian/Ubuntu
 1. Open UDP port 19132 on your router/firewall.
 2. Install ``build-essential``.
 3. Create a folder for your server.
-4. Download and extract [PocketMine-MP](https://github.com/MCPI-Devs/PocketMine-MP/archive/thebrokenrail.zip) into your server's folder.
+4. Download and extract [PocketMine-MP](https://github.com/MCPI-Revival/PocketMine-MP/archive/thebrokenrail.zip) into your server's folder.
 5. Open a terminal in your server's folder.
 6. Run ``./compile_php.sh`` to compile PocketMine's version of PHP and its required extensions.
 7. Run ``./start.sh`` to start your server.
